@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+dj-database-url = "*"
+djangorestframework = "*"
+django-rest-auth = "*"
+whitenoise = "*"
+gunicorn = "*"
+"psycopg2-binary" = "*"
+djangorestframework-jwt = "*"
+
+[dev-packages]
+django-debug-toolbar = "*"
+pylint = "*"
+mypy = "*"
+yapf = "*"
+
+[requires]
+python_version = "3.6.8"
