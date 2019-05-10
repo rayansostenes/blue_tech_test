@@ -1,0 +1,21 @@
+version: '3.7'
+
+services:
+  postgres:
+    image: postgres:10.1-alpine
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+  django:
+    build: 
+      context: django
+      dockerfile: Dockerfile
+    environment:
+      - DJANGO_MANAGEPY_MIGRATE=on
+      - DATABASE_URL=postgres://postgres:postgres@postgres:5432/postgres
+    ports:
+      - 8000:8000
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:

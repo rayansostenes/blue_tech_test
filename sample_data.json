@@ -1,0 +1,170 @@
+{
+  "defaultUser": {
+    "id": "6f0cc701-4f3b-484a-8906-b59d52024a61",
+    "isAdmin": true,
+    "firstName": "Admin",
+    "lastName": "",
+    "email": "admin@admin.com",
+    "avatar": "https://i.pravatar.cc/150?u=admin",
+    "username": "admin",
+    "password": "admin12345"
+  },
+  "users": [
+    {
+      "id": "d746d623-3525-469b-b606-dca2e77335bc",
+      "isAdmin": false,
+      "firstName": "Ramos",
+      "lastName": "Montoya",
+      "email": "ramos.montoya@pyramis.biz",
+      "avatar": "https://i.pravatar.cc/150?u=ramos_montoya",
+      "username": "ramos_montoya",
+      "password": "m1tj1ymq"
+    },
+    {
+      "id": "3e23de00-f824-435f-bf0b-2d2deac8f61c",
+      "isAdmin": false,
+      "firstName": "Paula",
+      "lastName": "Talley",
+      "email": "paula.talley@goko.tv",
+      "avatar": "https://i.pravatar.cc/150?u=paula_talley",
+      "username": "paula_talley",
+      "password": "kgtcde4a"
+    },
+    {
+      "id": "68e1909e-7833-43b1-b862-7660e53c367f",
+      "isAdmin": false,
+      "firstName": "Castaneda",
+      "lastName": "Black",
+      "email": "castaneda.black@aeora.org",
+      "avatar": "https://i.pravatar.cc/150?u=castaneda_black",
+      "username": "castaneda_black",
+      "password": "g6y53gbs"
+    },
+    {
+      "id": "577b1ceb-8536-4a17-91e1-66cc9700cd9a",
+      "isAdmin": false,
+      "firstName": "Horn",
+      "lastName": "Blanchard",
+      "email": "horn.blanchard@buzzness.name",
+      "avatar": "https://i.pravatar.cc/150?u=horn_blanchard",
+      "username": "horn_blanchard",
+      "password": "74xmrm46"
+    },
+    {
+      "id": "43bcc1bc-3b92-4fd6-9db5-bf34dc0e5a7d",
+      "isAdmin": false,
+      "firstName": "Erickson",
+      "lastName": "Dalton",
+      "email": "erickson.dalton@daycore.com",
+      "avatar": "https://i.pravatar.cc/150?u=erickson_dalton",
+      "username": "erickson_dalton",
+      "password": "6o20hscw"
+    },
+    {
+      "id": "b5904fa2-95ed-4b7a-9fc2-3c47bbd6827c",
+      "isAdmin": false,
+      "firstName": "Leann",
+      "lastName": "Hebert",
+      "email": "leann.hebert@crustatia.info",
+      "avatar": "https://i.pravatar.cc/150?u=leann_hebert",
+      "username": "leann_hebert",
+      "password": "in210vjz"
+    },
+    {
+      "id": "0786734f-10ba-4718-a41a-a793d43e95c8",
+      "isAdmin": false,
+      "firstName": "Velazquez",
+      "lastName": "Walton",
+      "email": "velazquez.walton@comfirm.ca",
+      "avatar": "https://i.pravatar.cc/150?u=velazquez_walton",
+      "username": "velazquez_walton",
+      "password": "5pw1un3u"
+    },
+    {
+      "id": "fdd70937-0290-4c3a-8ffa-bc27073bf65f",
+      "isAdmin": false,
+      "firstName": "Queen",
+      "lastName": "Coffey",
+      "email": "queen.coffey@amtap.biz",
+      "avatar": "https://i.pravatar.cc/150?u=queen_coffey",
+      "username": "queen_coffey",
+      "password": "mnxrw6f6"
+    }
+  ],
+  "polls": [
+    {
+      "id": "0839beb8-0b42-4eff-98c1-d1052101938a",
+      "text": "Vote no seu empreendimento favorito",
+      "choices": [
+        {
+          "id": "c2c5bb6c-074a-4ea5-afb3-159cdb0503f3",
+          "title": "Le Jardin",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "imageUrl": "https://r-cf.bstatic.com/images/hotel/max1024x768/133/133320203.jpg"
+        },
+        {
+          "id": "b1eb1d75-0f56-4f97-913b-eb7074b79236",
+          "title": "Evian",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "imageUrl": "http://www.evianresidence.com.br/images/3d/qd1_20.jpg"
+        },
+        {
+          "id": "373e4bff-ab2c-4186-b395-4ef412e5445c",
+          "title": "Olímpia Thermas.",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "imageUrl": "https://www.olimpiaresorts.com.br/imagens/20150414102317/15266477285afecbb0ce4dd093409701.jpg"
+        }
+      ]
+    }
+  ],
+  "votes": [
+    {
+      "id": "87ce6979-7742-4549-b314-aa98378f3d62",
+      "user": "d746d623-3525-469b-b606-dca2e77335bc",
+      "poll": "0839beb8-0b42-4eff-98c1-d1052101938a",
+      "choice": "b1eb1d75-0f56-4f97-913b-eb7074b79236"
+    },
+    {
+      "id": "e3af3355-44e9-47fd-b980-b11519eba2d9",
+      "user": "3e23de00-f824-435f-bf0b-2d2deac8f61c",
+      "poll": "0839beb8-0b42-4eff-98c1-d1052101938a",
+      "choice": "b1eb1d75-0f56-4f97-913b-eb7074b79236"
+    },
+    {
+      "id": "5fccdd44-8b13-4250-923e-0a710a8b76f6",
+      "user": "68e1909e-7833-43b1-b862-7660e53c367f",
+      "poll": "0839beb8-0b42-4eff-98c1-d1052101938a",
+      "choice": "c2c5bb6c-074a-4ea5-afb3-159cdb0503f3"
+    },
+    {
+      "id": "297a8ca5-ddd3-4f47-bf95-89852c453ae4",
+      "user": "577b1ceb-8536-4a17-91e1-66cc9700cd9a",
+      "poll": "0839beb8-0b42-4eff-98c1-d1052101938a",
+      "choice": "b1eb1d75-0f56-4f97-913b-eb7074b79236"
+    },
+    {
+      "id": "20ba139c-f340-4ed5-8c8a-7d897430e7c2",
+      "user": "43bcc1bc-3b92-4fd6-9db5-bf34dc0e5a7d",
+      "poll": "0839beb8-0b42-4eff-98c1-d1052101938a",
+      "choice": "c2c5bb6c-074a-4ea5-afb3-159cdb0503f3"
+    },
+    {
+      "id": "1c1d5f79-b0f1-4285-84ce-9c44f40cd796",
+      "user": "b5904fa2-95ed-4b7a-9fc2-3c47bbd6827c",
+      "poll": "0839beb8-0b42-4eff-98c1-d1052101938a",
+      "choice": "c2c5bb6c-074a-4ea5-afb3-159cdb0503f3"
+    },
+    {
+      "id": "2dfa8799-1b0d-46c3-8d3a-91be06fe94b3",
+      "user": "0786734f-10ba-4718-a41a-a793d43e95c8",
+      "poll": "0839beb8-0b42-4eff-98c1-d1052101938a",
+      "choice": "373e4bff-ab2c-4186-b395-4ef412e5445c"
+    },
+    {
+      "id": "8e2356ed-050f-4459-9a5f-c22d307e06b3",
+      "user": "fdd70937-0290-4c3a-8ffa-bc27073bf65f",
+      "poll": "0839beb8-0b42-4eff-98c1-d1052101938a",
+      "choice": "373e4bff-ab2c-4186-b395-4ef412e5445c"
+    }
+  ]
+}
